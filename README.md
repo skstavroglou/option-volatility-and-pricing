@@ -1,2 +1,1 @@
-# options-volatility-and-pricing
-A learning lab for Natenberg's "Option Volatility &amp; Pricing"
+<img src="static/OPTION VOLATILITY & PRICING.png" alt="Pooch: A friend to fetch your data files">
